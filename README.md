@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Elaija Heart Velasco
 - 👀 I’m interested in **Web Development, Database Management, Programming**
 - 🌱 I’m currently learning **Python and Java**
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **21-01226@g.batstate-u.edu.ph**
 
 <h3 align="left">Connect with me:</h3>
